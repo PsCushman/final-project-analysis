@@ -77,17 +77,17 @@ code {
     font-size: 14px;
     text-align: center;
     background-color: transparent;
-    border: 1px solid #1f1f20;
+    border: 2px solid #1f1f20;
     border-radius: 5px;
     color: #1f1f20;
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .link-button:hover {
-    background-color: #e2725b;
+    background-color: #e1ad01;
     color: #1f1f20;
     border-color: #1f1f20;
-    box-shadow: 0 0 50px #e2725b, 0 0 25px #e2725b, 0 0 150px #e2725b, 0 0 200px #e2725b; /* Increase glow effect on hover */
+    box-shadow: 0 0 50px #e1ad01, 0 0 25px #e1ad01, 0 0 150px #e1ad01, 0 0 100px #e1ad01; /* Increase glow effect on hover */
 }
 
 
